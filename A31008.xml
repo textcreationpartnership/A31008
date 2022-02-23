@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preparatory-grace in conversion briefly stated and examined / by Thomas Barnes.</title>
+            <author>Barnes, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31008</idno>
+            <idno type="STC">Wing B873</idno>
+            <idno type="STC">ESTC R25265</idno>
+            <idno type="EEBO-CITATION">08833793</idno>
+            <idno type="OCLC">ocm 08833793</idno>
+            <idno type="VID">41917</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31008)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41917)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1274:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Preparatory-grace in conversion briefly stated and examined / by Thomas Barnes.</title>
+                  <author>Barnes, Thomas.</author>
+               </titleStmt>
+               <extent>[2], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by A. Baldwin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Trinity College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Ezekiel I, 26 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41917:1"/>
+            <pb facs="tcp:41917:1" rendition="simple:additions"/>
+            <p>Preparatory-Grace IN Converſion, BRIEFLY STATED and EXAMINED.</p>
+            <p>By Thomas Barnes.</p>
+            <p>LONDON, Printed and are to be Sold by A. Bald win in Warwick-Lane, 1699.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:41917:2" rendition="simple:additions"/>
+            <pb facs="tcp:41917:2"/>
+            <head>TO THE READER.</head>
+            <p>THe following Sermon had the unhap<g ref="char:EOLhyphen"/>pineſs to be cenſured as unſound;<note place="margin">
+                  <hi>Dr.</hi> Gilpin <hi>of</hi> New<g ref="char:EOLhyphen"/>caſtle.</note> and the offence proved greater, by a ſup<g ref="char:EOLhyphen"/>poſed Oppoſition therein made to another Sermon, preached a little before by an emi<g ref="char:EOLhyphen"/>nent Paſtor in this Place. For my part, having not for ſome time heard him, I could not rationally be ſuſpected of an in<g ref="char:EOLhyphen"/>tention to interfere with Matters, I was not acquainted with. Only being informed of ſome popular Expreſſions he had uſed againſt that Phraſe of [coming to Chriſt] and ſuch as preſs it: I confeſs, it did in<g ref="char:EOLhyphen"/>creaſe my <hi>Jealouſies</hi> of a Man, whom for Age and Gifts, I may never expect to e<g ref="char:EOLhyphen"/>qual.</p>
+            <p>This is all the Apology I need for this Publication of the Diſcourſe, which is the very ſame it was when before delivered.
+<pb facs="tcp:41917:3" rendition="simple:additions"/>'Tis not out of haſt to appear in publick againſt a Man of his Acceptation in the World, but if poſſible to allay the Preju<g ref="char:EOLhyphen"/>dices of <hi>ſome,</hi> to do good to <hi>many;</hi> as his Sermon was not without its Scandal to the <hi>Few.</hi>
+            </p>
+            <p>Probable it is, that they who will not hear me, will not read my Sermon: And it is probable the Caſe may be put, whether a Miniſter of Chriſt, is not as well with<g ref="char:EOLhyphen"/>out the Company of ſuch Readers and ſuch Hearers.</p>
+            <closer>
+               <dateline>
+                  <date>Jan. <hi>18. 1699.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:41917:3"/>
+            <head>The Review of a Sermon, as it was Preached in a Connecti<g ref="char:EOLhyphen"/>on with Others, from that Text,</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>EZEK. 1.26.</hi>
+                  </bibl>
+                  <p>And upon the likeneſs of the Throne, was the likeneſs as the appearance of a Man above upon it.</p>
+               </q>
+            </epigraph>
+            <p>THE Cherubims are the Crea<g ref="char:EOLhyphen"/>tures of God, deſcribed here as upon the Wheel and Moti<g ref="char:EOLhyphen"/>on, under the Government of their Creator. The Similitudes made uſe to repreſent theſe things, may occaſi<g ref="char:EOLhyphen"/>on a thought like that Fathers, <hi>Quam al<g ref="char:EOLhyphen"/>ta ſonant hic Myſteria! What grave My<g ref="char:EOLhyphen"/>ſteries have we here?</hi> When he would have them move, they move: When he would have them ſtand ſtill, they do ſo. Thus all God's Creatures are at his Command.</p>
+            <pb n="2" facs="tcp:41917:4"/>
+            <p>Things being thus diſpoſed of, the Fa<g ref="char:EOLhyphen"/>ther ſets the Son in his own Throne, and by a voluntary grant, conſigns the whole Univerſe over to him, as King <hi>o<g ref="char:EOLhyphen"/>ver all things to the Church,</hi> Epheſ. 1.22.</p>
+            <p>This is the ſubſtance of this Context, according to the common ſenſe of Com<g ref="char:EOLhyphen"/>mentators and Divines. In this poſture, <hi>Ezekiel</hi> ſees him above the Firmament upon the Throne, as the Appearance of a Man, ſuch a Man, as is above all his Fellows. Now that this puts no force upon the Text, beyond the intendment of it, appears in the ſubſequent Verſe, where Chriſt is compared to Lamps of Fire. And the Apoſtle tells you, in <hi>Col.</hi> 1. <hi>v.</hi> 16, 17. <hi>All things were made by him and for him, and he is before all things, and by him all things conſiſt.</hi> The <hi>Jewiſh</hi> Doctors grant this in effect, when they teach the Omnipotency of God, and his Majeſty, to be exhibited herein as preſiding over all the works of his hands. This ſay we, is the Glory of God, as now manifeſted in Chriſt: Hence my Doctrine was this,</p>
+            <p>
+               <hi>That the Lord Jeſus as God-Man [Me<g ref="char:EOLhyphen"/>diator] has the weight of the whole Creation upon his hands, and ſupports it by his Power.</hi>
+            </p>
+            <pb n="3" facs="tcp:41917:4"/>
+            <p>To make out this Obſervation, I have given you ſeveral proofs of the power of Chriſt, by ſhowing you his univerſal in<g ref="char:EOLhyphen"/>flux upon the Creatures, <hi>Act.</hi> 17.28. This power I have informed you, is ei<g ref="char:EOLhyphen"/>ther Moral and Legiſlative, or Natural and Phyſical. The former in his Di<g ref="char:EOLhyphen"/>ſtribution of Gifts, <hi>Pſal.</hi> 68.18. <hi>Mat.</hi> ult. 18, 19. The latter in the works of Creation at firſt, and his raiſing our Bo<g ref="char:EOLhyphen"/>dies at the laſt day. I ſhowed you alſo the extent of this power in both kinds;<note place="margin">V. Syntag<g ref="char:EOLhyphen"/>mao Pola<g ref="char:EOLhyphen"/>ni. <hi>p. 2438.</hi>
+               </note> and <hi>laſtly,</hi> I gave you ſome concluding Applications.</p>
+            <p>What remains for me further to do upon this Subject, is to evidence, that our Lord Chriſt, in this his ſuperemi<g ref="char:EOLhyphen"/>nent Advancement varies his Influences, according to the various Creatures, up<g ref="char:EOLhyphen"/>on which his Power terminates. All Creatures are the Objects of the Power of Chriſt, but all Creatures are not the ſame in kind. He glorifies his Power every day, both upon Man and Beaſt: And yet he acts not the ſame way upon the <hi>One,</hi> which he does upon the <hi>Other.</hi> This naturally leads me to ſpeak of that great Work of Chriſt, in the <hi>Converſion</hi> of a Sinner unto himſelf; wherein in<g ref="char:EOLhyphen"/>deed
+<pb n="4" facs="tcp:41917:5"/>he deals with Man as a reaſonable Creature, and yet gives us bleſſed De<g ref="char:EOLhyphen"/>monſtrations, that converting Grace, is <hi>above</hi> the Powers of Nature.</p>
+            <p>And the rather do I at preſent fix up<g ref="char:EOLhyphen"/>on <hi>this;</hi> Becauſe the Inſtance of Chriſt's Power in Converſion, takes in both the Members of the former Diſtinction. For in the <hi>firſt place,</hi> The changing of the Sinner, is an Act of his Legiſlative, or <hi>Mediatorial</hi> Power: The Sinner was given to him, of the Father, <hi>John</hi> 17.2. and to the Sinner has he a Covenant-Right, nay, a right of Redemption; although the Sinner have no right to Chriſt until actual Faith. In Conver<g ref="char:EOLhyphen"/>ſion Chriſt recovers his Right, and by Faith at Converſion does an elect Per<g ref="char:EOLhyphen"/>ſon's Right become <hi>Actionable,</hi> accord<g ref="char:EOLhyphen"/>ing to the terms of the Covenant.</p>
+            <p>And then again, in the <hi>ſecond place,</hi> Converſion is a part of the <hi>Phyſical</hi> or Natural Power of Chriſt. He works Faith in thy heart by the ſame Power, wherewith he raiſed himſelf from the Dead, <hi>Epheſ.</hi> 1.19, 20.</p>
+            <p>To be as practical then, as may be in this Caſe, accept of a few ſhort Notes.</p>
+            <pb n="5" facs="tcp:41917:5"/>
+            <p>Firſt, <hi>When Chriſt converts the Soul, he makes it ſee its own Miſery.</hi>
+            </p>
+            <p>That it is a miſerable Soul without him, and here it appears, that other things without this degree of Convicti<g ref="char:EOLhyphen"/>on are unſound, as to inſtance in the noted Young Man in the Goſpel, <hi>Mat.</hi> 19.20. <hi>The Young Man ſaith unto him, all theſe things have I kept from my Youth, what lack I yet?</hi> A ſad ſign of a bad ſtate, doubtleſs this was, and an high Opinion of his own Abilities doubtleſs he <hi>had.</hi> He had done this and that, — One would think here were promiſing preparations for Grace. Ay, but ſaies Chriſt, <hi>one</hi> thing thou lackeſt! and that one ſpoiled all.</p>
+            <p>Thus deals Chriſt with <hi>all,</hi> when he comes to deal to purpoſe: He lets them ſee their <hi>Preparations,</hi> if they <hi>pro<g ref="char:EOLhyphen"/>ceed</hi> not, are preparations for Hell. A ſaving Faith muſt compleat the Work; the Man thought he heard well, and prayed well, and lived well: But when Chriſt comes, he counts all things Dung for Chriſt.</p>
+            <p>Secondly, <hi>The Man ſees a neceſſity of Holineſs.</hi>
+            </p>
+            <pb n="6" facs="tcp:41917:6"/>
+            <p>Without Holineſs he knows there is no Happineſs; ſo that he betakes himſelf to Chriſt, as to the Fountain of Holineſs. Is hearing the Word ne<g ref="char:EOLhyphen"/>ceſſary? Is the practice of Duties ne<g ref="char:EOLhyphen"/>ceſſary? O then, how neceſſary is it, that above all, I have <hi>Faith,</hi> without which all other Performances are in Vain? If you are for Holineſs <hi>indeed,</hi> and not in Name and Talk, you muſt dig as deep as Faith in the Blood of Chriſt for it. Holineſs is Chriſt's Image on the heart: All that the Believers does, is <hi>from</hi> Chriſt as well as for Chriſt. Here is the Chriſtian, who hath more real Holineſs, than the moſt ſplendid Hypo<g ref="char:EOLhyphen"/>crite in the World: And yet this Chri<g ref="char:EOLhyphen"/>ſtian confeſſes, that but for Chriſt's Righteouſneſs, his beſt Duties would undoe him. He is as much for Holineſs, as God would have him be; but ſtill takes care that his Holineſs be not put in the room, of what God has done for him by his Son.</p>
+            <p>The Man is not onely convinced, that he muſt have the White Garments of Holineſs, but he is further convinced, he muſt have the White Rayment of Chriſt, if ever he get it at all. Hence
+<pb n="7" facs="tcp:41917:6"/>he makes a bold venture with them in the Goſpel, for a <hi>Touch of his Garments, to make</hi> him whole. Others, he leaves to their Forms and Complements in Religion; all the Preparation, the Man I ſpeak of deſires, is, that he may have leave to caſt himſelf at the feet of his Judge, and acknowledge his own Vile<g ref="char:EOLhyphen"/>neſs. At ſuch a pungent rate, doth the Spirit in Converſion preſs the Sinner; he ſees plainly, that ſome with their Prepa<g ref="char:EOLhyphen"/>rations, ſtick in their Preparations all their days, but the convinced Sinner does not tarry there.</p>
+            <p>Thirdly, <hi>The Soul is made ſenſible of the difficulty of Faith.</hi>
+            </p>
+            <p>To Fleſh and Blood he finds it utter<g ref="char:EOLhyphen"/>ly impoſſible to believe. O then, Men make a Noiſe with their Abilities, this poor Man cries, I believe, Lord help my Unbelief! He will tell you, that going to Chriſt, is the longeſt, the heardeſt ſtep, he ever took in his Life. Whatever he be doing, and whatever Providences he be under for help, he has ever recourſe to his Jeſus. If he Prays, he goes to Chriſt in Prayer, or elſe he knows his Prayer is loſt: If to the Lord's Supper, therein alſo he goes to Chriſt. It is not the <hi>work</hi>
+               <pb n="8" facs="tcp:41917:7"/>done, but the <hi>enjoyment</hi> of Chriſt in it, wherein his heart terminates: In a word, this is the ſum of a Chriſtian, whereas we are all going ſome whither; ſome to their Riches, ſome to their Duties, moſt to the Creatures; this Man from the firſt Minute of his Converſion, to the laſt of his life, is following after Chriſt.</p>
+            <p>Some indeed, who are at eaſe in <hi>Sion,</hi> begin wantonly to ask us, what do we <hi>mean</hi> by going unto Chriſt? Surely, Sirs, our bleſſed Lord <hi>meant</hi> ſomewhat, when he bid the Weary and Heavy-laden come to him. Come to me? Why, in plain <hi>Engliſh</hi> do not run away from Me, do not turn your backs of Me, but come to Me. And I ſpeak freely, I'm afraid we grow into a diſlike of the <hi>thing,</hi> that makes us object childiſh Cavils againſt the Name. Well then, the ſenſible Sinner improves the Grace, that is in the external Call, and turns it into an Argument thus with Chriſt; <hi>Lord</hi> (ſaies he) <hi>thou calleſt me by thy Goſpel, give me Grace to anſwer this thy Call:</hi> Thou muſt <hi>cauſe</hi> as well as <hi>call</hi> me to come, or otherwiſe thy Call will be ineffectual.</p>
+            <p>Thus he pleads for Mercy, as the Pe<g ref="char:EOLhyphen"/>nitent Thief did upon the Croſs, <hi>Luke</hi> 23.42.
+<pb n="9" facs="tcp:41917:7"/>
+               <hi>Remember me, when thou comeſt into thy Kingdom.</hi> It's not amiſs to Note, how by this Example, Chriſt triumph'd over the ignominy of his Croſs, by pardoning a Sinner, a vile Sinner, viler than the Death he died. Theſe two crucified Wretches, had been woful Companions in Sin; whatever Light, whatever Knowledge, whatever Educations they had been un<g ref="char:EOLhyphen"/>der (not to ſtay to enquire into their Hiſtory) both came alike to a Tragical End. So far were they from being pre<g ref="char:EOLhyphen"/>pared formally, by their common Quali<g ref="char:EOLhyphen"/>fications (be they what they would) that ſin (for ought their light could do to hinder it) had prepared them for the Gallows. Now notwithſtanding, they both lay equally fair for Chriſt (<hi>i. e.</hi> were as far from him, as a ſtate of Nature is from a ſtate of Grace;) yet you ſee, Chriſt takes one, and makes him a Mo<g ref="char:EOLhyphen"/>niment of his Pardon: Yes, one <hi>Item</hi> of Grace from Chriſt, puts the Soul into Paradiſe, when all other Preparations, ſhort of <hi>this,</hi> will leave it at the Doors of Heaven for ever.</p>
+            <p>Fourthly, <hi>The Lord by his efficacious Grace, in Converſion, perſuades the Man, in the laſt place, that the longer he ſtays away
+<pb n="10" facs="tcp:41917:8"/>from him, his condition is but the Worſe.</hi>
+            </p>
+            <p>Let me be never ſo well accounted and prepared (ſaies he) if I be not yet got <hi>thi<g ref="char:EOLhyphen"/>ther,</hi> I may periſh for all my Preparati<g ref="char:EOLhyphen"/>ons. Is it my Duty to Believe? Then I muſt Believe: Give me Chriſt, or elſe I die. Tell him not of this and that, — that he muſt ſet upon the Duty of Pray<g ref="char:EOLhyphen"/>er, — that he muſt be inſtructed in the Documents of Religion, — alaſs, thinks he, I have been long enough at that paſs; I have Prayed many a time, I have been an Hearer this Forty Years, and for know<g ref="char:EOLhyphen"/>ledge, I have been head and ſhoulders taller than my Neighbours; and what a<g ref="char:EOLhyphen"/>vails all this, ſo long as I go without Chriſt in the World! My Prayers have increaſt my Formality; my Hearing has hardned my Heart; my Knowledge de<g ref="char:EOLhyphen"/>ſerves no better Name, than Blindneſs, Ignorance and Pride. Thus do theſe Compunctions of the Spirit prick the hearts of Men; thus do they lament themſelves, when they look back upon their Preparations, without Union unto Chriſt.</p>
+            <p>And what ſhall I ſay? Doth not <hi>Paul</hi> ſpeak this Language? 1 <hi>Tim.</hi> 1.13. when he tells us, He <hi>had obtained Mercy,</hi> there
+<pb n="11" facs="tcp:41917:8"/>had been vital action betwixt Chriſt and him; ay, but what was he before this? <hi>Before this</hi> (cries he) <hi>I was a Blaſphemer, a Perſecutor, and Injurious.</hi> Much com<g ref="char:EOLhyphen"/>mon Illumination he had had, going as far as his <hi>Rational</hi> Abilities could reach: Well! this diſpoſed him, it ſeems to Blaſ<g ref="char:EOLhyphen"/>phemy, it prepared him for Malignity and Perſecution. For let me add, that his Rage and Cruelty, did not <hi>contradict</hi> that light, which he had, as he was a <hi>Jew:</hi> No, they were the genuine Produ<g ref="char:EOLhyphen"/>ctions of his Rabbinical Inſtructions, be<g ref="char:EOLhyphen"/>fore he became acquainted with Chriſt.</p>
+            <p>I do not at preſent fore-ſee the frailty of this Propoſition. Before the Apoſtle obtained Mercy, he had ſome prepara<g ref="char:EOLhyphen"/>tive workings towards the receipt of Chriſt, or he had none: If he had none, then the Doctrine of Preparations will not hold <hi>de Omni,</hi> becauſe ſome are con<g ref="char:EOLhyphen"/>verted without them.</p>
+            <p>If <hi>Paul</hi> had preparatory workings to<g ref="char:EOLhyphen"/>wards Chriſt, then it was his Blaſphemy and Perſecution, that were theſe Prepa<g ref="char:EOLhyphen"/>rations. For before I obtained Mercy, (ſaies he) this is the <hi>beſt</hi> account I can give of my ſelf, I lived in Ignorance and Unbelief, and theſe are but unlikely Pre<g ref="char:EOLhyphen"/>parations for Chriſt. Beſides,</p>
+            <pb n="12" facs="tcp:41917:9"/>
+            <p>All Men, as well as <hi>Paul,</hi> are either brought to Faith, or they are yet in Un<g ref="char:EOLhyphen"/>belief: If they be brought to Faith, they are beyond any ſuch Preparation. If they be yet in Unbelief, their hearts are faſt bar'd againſt the Lord Jeſus, and to have the heart faſt lockt againſt Chriſt, is but an odd preparation to receive him.</p>
+            <p>And now for the <hi>uſe</hi> of this, I expect it will be ſaid, That truly theſe are but <hi>ge<g ref="char:EOLhyphen"/>neral</hi> Intimations; and it may be, I am not ſo precipitant as not to be aware of <hi>Difficulties</hi> in my way; moſt Applicati<g ref="char:EOLhyphen"/>ons are practical. Mine at this time, will be Doctrinal and <hi>Defenſative.</hi> And two things I ſhall be concerned in, wherein there will be a <hi>Cloſer</hi> attendance to the point: <hi>One is this,</hi> Doth not this vacate Mens endeavours? <hi>Anſw.</hi> No one inſtru<g ref="char:EOLhyphen"/>cted in the Myſtery of Chriſt will ſay ſo. The truth is, all our miſchief ariſes either from ſome Mens making <hi>nature</hi> to do all without Chriſt, or ſo making Chriſt to do all, as leaving no perſonal duty to us. Three ways they here take; ſome aſ<g ref="char:EOLhyphen"/>ſert that all our Converſion is wrought by univerſal Grace, as <hi>Arminius</hi> againſt <hi>Corvinus.</hi> Others ſay, that as Faith is not in our power, ſo neither doth God require
+<pb n="13" facs="tcp:41917:9"/>it of us, nor is it on our parts, particularly neceſſary to Salvation, that Chriſt has be<g ref="char:EOLhyphen"/>lieved for us, and is himſelf inſtead of all. To this purpoſe writ <hi>Saltmarſh, Den, Swink<g ref="char:EOLhyphen"/>field</hi> and the German <hi>Antinomians.</hi> Now theſe are two groſs extreams, and vile Abo<g ref="char:EOLhyphen"/>minations are they both; there are a third ſort, who ſay, tho' Faith and Holineſs are required of us, and altho' we cannot work them in our ſelves, yet <hi>every</hi> Man can do <hi>ſomething</hi> in order to them. They tell you, that albeit, Faith or the <hi>Act</hi> of coming to Chriſt be not in our power yet, ſtill ſomething may be done in <hi>order</hi> to it, by way of Preparation; and when theſe Pre<g ref="char:EOLhyphen"/>parations are ſearcht into, they are the fruits of Mens natural Abilities, tho' the main ſtroak of Converſion be not ſo.</p>
+            <p>As to my ſelf, I am ſhie of extolling the powers of Nature, what <hi>mighty</hi> things Men can do. (They who find ſuch Methods in Divinity moſt adapted to work ſavingly on the Souls of Men, may follow their own Wiſdom. It diſcourages me, ſo long as Scripture ſays expreſly, the natural <hi>Man,</hi> in ſpiritual <hi>things,</hi> can do juſt <hi>nothing.</hi>) I ſay, uſe all means diligently, Pray, Read, Study, let his portion be ſhame amongſt the Tribe of <hi>Levi,</hi> that abates your Dili<g ref="char:EOLhyphen"/>gence:
+<pb n="14" facs="tcp:41917:10"/>Yet know <hi>without</hi> Chriſt, in the uſe of means, you are Dead, Dying, dam<g ref="char:EOLhyphen"/>ning Miſcreants. No body contends againſt this, that there are <hi>quoedam naturoe Dotes,</hi> often <hi>materially</hi> good things in Men, and <hi>materially</hi> good things done by them; yet 'tis unſavory to call theſe the Connections, or infallible Preparations to Grace:<note place="margin">Dr. <hi>Owen</hi> of the Spi<g ref="char:EOLhyphen"/>rit, Book <hi>3. ch. 2.</hi>
+               </note> For, as a great Man in the Goſpel ſays well, they are no more Preparations than the drineſs of Wood, is a preparation for Fire. We all know that dry Wood is readier for Fire, than Wood which is wet; (ſo you who conſcientiouſly attend the means of Grace, are in a more hopeful way, than ſuch as do deſpiſe them) but ſtill the dri<g ref="char:EOLhyphen"/>neſs of the Wood partakes not of the na<g ref="char:EOLhyphen"/>ture of Fire, and it may lie until it rot, be<g ref="char:EOLhyphen"/>fore it will take fire of its ſelf, for all its drineſs. The diſtinction therefore which the ſaid venerable Author uſes in compli<g ref="char:EOLhyphen"/>ance with the <hi>Synod of Dort,</hi> is not deni<g ref="char:EOLhyphen"/>ed by me;<note place="margin">Doven. Determ. Quaſt. Qu. <hi>9.</hi> V. Et Teſtardum Synopſ. de Nat. &amp; Grat. Prop. <hi>7.</hi>
+               </note> provided it be taken with the Analogy, of what a Prelate of the <hi>Church of England,</hi> who was a Member of that <hi>Synod,</hi> aſſerts, and elſewhere explains him<g ref="char:EOLhyphen"/>ſelf in: Dr. <hi>Owen</hi> (a Divine ſooner envied than imitated) lays down a clear diffe<g ref="char:EOLhyphen"/>rence betwixt material Diſpoſitions (ſuch
+<pb n="15" facs="tcp:41917:10"/>as Illumination, and Hiſtorical Informati<g ref="char:EOLhyphen"/>on, as <hi>Euſebius</hi> writ a Book of Evangelical Preparation) and formal Preparation, which are the works of the Spirit (not the incertain Velitations of Mens Wills) always iſſuing in a ſaving Faith: And to this ſenſe, ſpeak the reformed in <hi>Poland.</hi>
+               <note place="margin">
+                  <hi>V.</hi> Aſh<g ref="char:EOLhyphen"/>well. de Socino &amp; Socinia<g ref="char:EOLhyphen"/>niſmo Diſ. <hi>§. 31. §. 70.</hi>
+               </note> The <hi>Socinians</hi> there oppoſing the Divine Worſhip of Chriſt, occaſioned a debate touching ſufficient and effectual Grace; wherein I have with a particular Curioſity, ſeen a Manuſcript in <hi>Sion</hi> College, con<g ref="char:EOLhyphen"/>taining ſome imperfect Account of the Synod of <hi>Pinkzove;</hi> where it is not im<g ref="char:EOLhyphen"/>poſſible for me to produce their ſuffrages to this effect; that ſometimes Men are con<g ref="char:EOLhyphen"/>verted without diſcernible preparative Workings, and to the beſt of my under<g ref="char:EOLhyphen"/>ſtanding, the <hi>French</hi> Jeſuiſts, in Monſieur St. <hi>Amour</hi>'s Journal, in that Article of the <hi>Quinquarticular points,</hi> are at one with them. So that you ſee, moſt parties feel a tenderneſs in this place, and that the Do<g ref="char:EOLhyphen"/>ctrine of Preparations had need be warily received.</p>
+            <p>I know the Scripture mentions ſome Converts who were wrought upon, by a long train of Convictions, and what I af<g ref="char:EOLhyphen"/>firm, is this, That where theſe Convictions
+<pb n="16" facs="tcp:41917:11"/>are <hi>ſaving,</hi>
+               <note place="margin">DeCorrept, &amp; Grat. <hi>cap. 15.</hi>
+               </note> they are the <hi>Effects of</hi> Faith, and <hi>Preparations for</hi> it. Readily for this Rea<g ref="char:EOLhyphen"/>ſon, I concur with <hi>Auguſtin,</hi> becauſe we know not who belong to Election, we are to wiſh well to all. But that theſe Prepa<g ref="char:EOLhyphen"/>rations are not <hi>ſpecifically</hi> diſtinct from ſpecial Grace,<note place="margin">Lib. <hi>6.</hi> de legib,</note> is Doctrine more becoming what <hi>Plato</hi> teaches, than what we read in Scripture-Reconds, where the Lord open<g ref="char:EOLhyphen"/>ed the heart of <hi>Lydia</hi> in an inſtant, with<g ref="char:EOLhyphen"/>out any <hi>preliminary probation,</hi> that we know of. Take but the inſtance of Mr. <hi>Elliat,</hi>
+               <note place="margin">
+                  <hi>Pag.</hi> 101.</note> which Mr. <hi>Cotton Mather</hi> gives in his life, when he preached his <hi>firſt Sermon</hi> to the Pagan <hi>Indians,</hi> they told Mr. <hi>Elliat, they underſtood all</hi> that he had Preach'd, be<g ref="char:EOLhyphen"/>coming ſerious Proſelites to Chriſt, and as appears in the Sequel, making Profeſſion of their Faith. I would only put the Queſti<g ref="char:EOLhyphen"/>on now, <hi>Where were theſe Mens Preparati<g ref="char:EOLhyphen"/>ons?</hi> Ah, <hi>Brethren,</hi> diſtreſt Souls will bleſs God, there is ſo near a way to relief, as going to Chriſt, when others who have nothing elſe to do, will trifle with it.</p>
+            <p>The other <hi>Exception</hi> is this, This lays all at Chriſt's Door, and not at the Door of Man's will; till I know who will own this Exception, I ſhall not inlarge upon what <hi>Paul</hi> ſpeaks, <hi>Rom.</hi> 9.16. <hi>So then, it is not in
+<pb n="17" facs="tcp:41917:11"/>him that willeth, nor in him that runneth, but in God that ſheweth Mercy.</hi> A troubled per<g ref="char:EOLhyphen"/>ſon will go to Prayer, but it is not <hi>the</hi> Pray<g ref="char:EOLhyphen"/>er, but the <hi>flight</hi> of his Soul to Chriſt <hi>in</hi> Prayer, that gives him eaſe: Yes, the di<g ref="char:EOLhyphen"/>rect acts of Faith ſecure the Souls of Men.</p>
+            <p>
+               <hi>Obj.</hi> But ſtill I'm afraid there is a <hi>Latent</hi> Antinomianiſm in this. <hi>Anſ. Deus avertat Omen;</hi> Jealouſies are the ruin of Friendſhip. If I ſhould tell you, that there is a <hi>Latent</hi> Arminianiſm in your Objection, and that this way of driving on Duties without Chriſt's company, is but a dead way, as appears in the cold hearts and ſapleſs pro<g ref="char:EOLhyphen"/>feſſion of your Party; you would ſay I wanted Charity, and we ſhould have no<g ref="char:EOLhyphen"/>thing but a ſquabble of it. It is but a <hi>Trite</hi> Calumny caſt in the way of the Orthodox, and a ſlur upon the order of the Goſpel, as if it precluded Mens endeavours. Of truth nothing comes but truth, when lyes and baſe deſigns, need ſhifts and endleſs Cavils.</p>
+            <p>Obj. <hi>You are too Rigid, wiſe Men take middle Courſes.</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> Ay, certainly, he who has to do with wiſe Men, had need be wary: But the beſt on't is, there is no mean betwixt Truth and Error. I never thought <hi>Calvin,</hi> as infallible a <hi>Divine</hi> as <hi>Paul;</hi> and yet I
+<pb n="18" facs="tcp:41917:12"/>know not how Men celebrated in their day, have made ſowr complaints of an <hi>unſuſpe<g ref="char:EOLhyphen"/>cted</hi> Declenſion, by taking a middle courſe even in this ſelf ſame <hi>Calviniſm.</hi>
+               <note place="margin">L' Blank, Th. <hi>1. p. 429.</hi>
+               </note> However, if it be poſſible for me to keep up a good Correſpondence with your Judicious Mo<g ref="char:EOLhyphen"/>derators, I ſhall freely referr my ſelf to one, whom unfeignedly I value, and I comfort my ſelf, I have his ſenſe in all that I have ſaid.</p>
+            <p>Nay!<note place="margin">Cath Theol. Book. <hi>2.151.</hi>
+               </note> for once, Mr. <hi>Baxter</hi> ſhall be my ſhield, and what he ſays will go far with many; <hi>all good Diſpoſitions</hi> (ſays that good Man, who gave the world, which he little liked, many a loud Warning, he was no Antinomian) <hi>is from God;</hi> ſo that it ſeems, a Man may avouch this, and yet inforce the uſe of means.</p>
+            <p>I appeal to all who have any concern in Religion, whether of theſe two do moſt in<g ref="char:EOLhyphen"/>force Duty? To ſay, Never expect, O Man, thy Converſion, but in a due uſe of God's appointed means. Or to ſay, Never expect thy Converſion, till thou haſt paſt thro' thy courſe of <hi>Preparation.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>! Here is a rare diſciplinary-ſilence for your <hi>Catechumeni,</hi> your Pythagorick Probatio<g ref="char:EOLhyphen"/>ners! Why? How long muſt Men be pre<g ref="char:EOLhyphen"/>paring? When come theſe Preparations to
+<pb n="19" facs="tcp:41917:12"/>their Compleatment? Will the <hi>Fox,</hi> by all his apiſh tricks, attain the <hi>reaſon</hi> of a Man, and by <hi>degrees</hi> become a Senator? Impoſ<g ref="char:EOLhyphen"/>ſible! Oh! God forbid, I conjure you of <hi>New-caſtle,</hi> be not ſo Devil-ridden by Craft, as to ſtand at play with Notions in the way of your Salvation.</p>
+            <p>With ſuch meaſure of Preaching Gifts, as by Prayer ſome meaſure of honeſt Dili<g ref="char:EOLhyphen"/>gence (as I can get a bad heart forward) and copying after my betters, I can attain to: I admoniſh you to beg of Chriſt, to ſave you, becauſe you cannot ſave your ſelves. This is the work of Miniſters. And the Serpent never ſhow'd himſelf more a Ser<g ref="char:EOLhyphen"/>pent than in incumbring the ſimplicity of this Truth. We ſay, there is no true Holi<g ref="char:EOLhyphen"/>neſs, but what is a fruit of Faith, and there<g ref="char:EOLhyphen"/>fore as ever we would have Men cloathed, we would have them repair to <hi>God's Ward<g ref="char:EOLhyphen"/>robe.</hi> And what of all this? Why, then we are not ſound; then we are not <hi>Orthodox;</hi> then we are Antinomians, and all that Non<g ref="char:EOLhyphen"/>ſenſe, Wickedneſs, and ill breeding can ſug<g ref="char:EOLhyphen"/>geſt. If thoſe be your Wiſe Middle Siz'd-Divinity-Men, it is a piece of effronted impudence in them, to inſinuate ſuch In<g ref="char:EOLhyphen"/>nuendo's as that our way leaves no room for Duties. They Father upon us ſome baſe<g ref="char:EOLhyphen"/>born
+<pb n="20" facs="tcp:41917:13"/>Concluſions of their own, and then raiſe a creeking Triumph, that they have killed a Mon<g ref="char:EOLhyphen"/>ſter. No,<note place="margin">
+                  <hi>How,</hi> of Bleſſed<g ref="char:EOLhyphen"/>neſs.</note> no, practical Holineſs (as a grave Man ſays upon a grave Subject) is God's refle<g ref="char:EOLhyphen"/>cted or impreſt image on his Saints, and is an eſſential part of Goſpel-Redemption.</p>
+            <p>This Undermining the Doctrine of the grace of God, rendred the <hi>reformation</hi> depreſt and unſucceſsful in <hi>Poland;</hi> by this did the <hi>Learned Amyraldus</hi> ſhatter the Proteſtant Churches of <hi>France.</hi> And this deſign is a Par<g ref="char:EOLhyphen"/>ty (a Peace-making Party, if you will believe them) carrying on, in <hi>England</hi> to the utter ruin of Peace, and the Power of Godlineſs a<g ref="char:EOLhyphen"/>mongſt us.</p>
+            <p>And now (good Reader) thou haſt that dif<g ref="char:EOLhyphen"/>courſe ſeparated from the reſt, which gave of<g ref="char:EOLhyphen"/>fence. And having taken the trouble to read theſe few leaves, Pray tell me, what Hereſie thou canſt ſpie in all this? Is there any cauſe given, why a poor beginner in his Maſter's Vineyard ſhould meet with ſo much Treache<g ref="char:EOLhyphen"/>ry, ſo much Blindneſs and Contempt? Little Souls are full of Self-advancement upon very ſlender Grounds.</p>
+            <p>But, Man's day is ſo ſhort-liv'd a thing, it is never worth too many thoughts about it. Our grievances are <hi>Coram Rege,</hi> and there is a Judge ſtands at the Door, in whoſe Eyes, the leaſt in the kingdom of Heaven is greater, than old <hi>John</hi> the Baptiſt.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:41917:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
